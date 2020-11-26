@@ -1,6 +1,8 @@
 # gcpbox
 Google Cloud Platform Utility
 
+https://github.com/sinmetalcraft/gcpbox にお引越しした
+
 ## cloudtasks
 
 * Handlerの [Header](https://cloud.google.com/tasks/docs/creating-appengine-handlers?hl=en#reading_app_engine_task_request_headers) を取得
